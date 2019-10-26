@@ -1,2 +1,2 @@
-# Calculator
-A simple calculator developed on eclipse
+# Data Communication and Networking Laboratory Programs
+DCN lab programs are available here..
